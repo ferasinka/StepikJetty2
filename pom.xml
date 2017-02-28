@@ -38,7 +38,7 @@
 					<appendAssemblyId>false</appendAssemblyId>
 					<archive>
 						<manifest>
-							<mainClass>example.Main</mainClass>
+							<mainClass>example.SocketMain</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
